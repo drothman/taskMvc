@@ -1,0 +1,7 @@
+tmp/*
+
+resources/scripts/
+resources/archive/
+resources/docs/*
+
+.project
